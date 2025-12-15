@@ -17,4 +17,4 @@ I am a software developer focused on **algorithmic complexity**, **AI data engin
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[foster5050]&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=foster5050&show_icons=true&theme=radical)
